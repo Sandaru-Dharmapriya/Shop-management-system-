@@ -1,0 +1,4 @@
+C101 - class Clothing - shirt - 50 - 25
+C101 - class Clothing - cap - 54 - 35
+E101 - class Electronics - TV - 200 - 50
+E202 - class Electronics - phone - 20 - 2
