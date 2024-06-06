@@ -1,1 +1,1 @@
-# Shop-management-system-
+Developed a comprehensive shop management system enabling shop managers to efficiently add and remove products, monitor available items, and oversee inventory. Utilized Java as the programming language with a graphical user interface (GUI) developed using Java Swing
